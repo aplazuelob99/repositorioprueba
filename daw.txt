@@ -1,5 +1,5 @@
 1. Programacion
 2. Base de datos
 3. Disseny web entorn servidor
-4. Programació movil
-5. Disseny web entorn cliente
+4. Programación movil
+5. Desplegament Aplicacions Web
